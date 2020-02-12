@@ -2,7 +2,7 @@ About
 ============
 MATLAB code of our ICCV 2019 paper:
 
-"Scalable Place Recognition Under Appearance Change for Autonomous Driving" - ICCV 2019 
+"Scalable Place Recognition Under Appearance Change for Autonomous Driving" - ICCV 2019, 
 [Anh-Dzung Doan](https://sites.google.com/view/dzungdoan/home), 
 [Yasir Latif](http://ylatif.github.io/), 
 [Tat-Jun Chin](https://cs.adelaide.edu.au/~tjchin/doku.php),
